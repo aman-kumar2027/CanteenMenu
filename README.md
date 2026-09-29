@@ -25,3 +25,7 @@ Run the program via terminal:
 
 ```bash
 python main.py
+
+## Author
+
+Aman Kumar
